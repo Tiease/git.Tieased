@@ -1,0 +1,54 @@
+.Banner {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.item h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+#Brushes {
+    background-color: springgreen;
+}
+
+strong {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paints {
+    background-color: lightblue;
+}
+
+h1 {
+    display: block;
+    margin: 60px 0px;
+    background-image: url("/Users/apple/OneDrive/Code Academy Projects/Fine Arts Store Project/Resources/Images/pattern.jpeg");
+    font-family: helvetica;
+    background-size: cover;
+    background-position: center;
+
+}
+
+a {
+    display: block;
+    margin: 16px 0px;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+h4 {
+    display: block;
+    margin: 0px 0px;
+}
